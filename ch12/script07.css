@@ -1,0 +1,26 @@
+body {
+	margin: 0 20px;
+	padding: 0;
+	background-color: #FFF;
+	color: #000;
+}
+
+div.navBar {
+	background-color: #CCC;
+	width: 175px;
+	position: relative;
+	top: -20px;
+	right: -20px;
+	float: right;
+	padding: 20px 0 20px 20px;
+	border-left: 2px groove #999;
+	border-bottom: 2px groove #999;
+}
+
+.sansBtn {
+	font: 12px/13px verdana, geneva, arial, helvetica, sans-serif;
+}
+
+.serifBtn {
+	font: 16px/17px "Times New Roman", Times, serif;
+}

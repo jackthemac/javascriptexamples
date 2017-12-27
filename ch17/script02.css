@@ -1,0 +1,10 @@
+#draggable {
+	position: absolute;
+	background-color: #FFC;
+	border: 5px solid yellow;
+	width: 100px;
+	height: 100px;
+	padding: 50px;
+	text-align: center;
+	font-family: Albany, Georgia, "Times New Roman", serif;
+}

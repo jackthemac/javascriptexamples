@@ -1,0 +1,12 @@
+body {
+	background-color: #FFF;
+}
+
+.centered {
+	text-align: center;
+}
+
+img#myPicture {
+	width: 500px;
+	height: 500px;
+}
